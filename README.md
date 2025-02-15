@@ -1,12 +1,12 @@
----
 
 # 📌 **Complete Guide to React Hooks**
+---
 React **Hooks** are functions that let you **use state and lifecycle features** in functional 
 components. Introduced in React 16.8, they simplify component logic and enhance code reusability.
 
 Here’s a breakdown of all React Hooks:
-
 ---
+
 
 ## **1️⃣ State & Lifecycle Hooks**  
 These hooks manage **state** and **side effects** in functional components.
